@@ -5,6 +5,5 @@
 - 🔭 I’m currently working on Open Source
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with Shad-Blocks Project
 - 📫 How to reach me: muhammadkaifnazeer99@gmail.com
 - ⚡ Portfolio: https://muhammadkaifnazeer.netlify.app/
