@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Muhammad Kaif Nazeer</h1>
-<h3 align="center">A passionate full stack web developer.</h3>
+# Hi, I'm Muhammad Kaif Nazeer 👋 
 
+I'm a passionate Full-Stack Web Developer specializing in creating exceptional web applications with a focus on modern technologies and seamless user experiences. My expertise spans both front-end and back-end development, allowing me to build comprehensive solutions that are both powerful and user-friendly.
 
-- 🔭 I’m currently working on Open Source
-- 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate on Projects
-- 📫 How to reach me: muhammadkaifnazeer99@gmail.com
-- ⚡ Portfolio: https://muhammadkaifnazeer.netlify.app/
+## 🚀 Skills
+- JavaScript, TypeScript
+- Next.js, MongoDB, Express.js, React.js, Node.js
+- Tailwind CSS, Shadcn UI
+- NextAuth, JWT (JsonWebToken)
+- Payload CMS
+
+## 🔭 Currently Working On
+I'm always exploring new ideas and technologies. Check out my [muhammadkaifnazeer.netlify.app/projects](https://muhammadkaifnazeer.netlify.app/projects) to see what I'm currently building.
+
+## 📫 Let's Connect
+- Website: [muhammadkaifnazeer.netlify.app](https://muhammadkaifnazeer.netlify.app/)
+- Email: [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99@gmail.com)
+
+💡 Interested in working together? Feel free to [email me](muhammadkaifnazeer99@gmail.com) or check out my [CV](https://cv-muhammadkaifnazeer.netlify.app/) for more details about my experience.
