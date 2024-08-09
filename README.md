@@ -2,7 +2,7 @@
 
 I'm a passionate Full-Stack Web Developer specializing in creating exceptional web applications with a focus on modern technologies and seamless user experiences. My expertise spans both front-end and back-end development, allowing me to build comprehensive solutions that are both powerful and user-friendly.
 
-## 🚀 Skills
+## 🚀 Some of my Skills
 - JavaScript, TypeScript
 - Next.js, MongoDB, Express.js, React.js, Node.js
 - Tailwind CSS, Shadcn UI
