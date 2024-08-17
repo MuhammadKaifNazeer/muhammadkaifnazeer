@@ -16,4 +16,4 @@ I'm always exploring new ideas and technologies. Check out my [muhammadkaifnazee
 - Website: [muhammadkaifnazeer.netlify.app](https://muhammadkaifnazeer.netlify.app/)
 - Email: [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99@gmail.com)
 
-💡 Interested in working together? Feel free to [email me](muhammadkaifnazeer99@gmail.com) or check out my [CV](https://cv-muhammadkaifnazeer.netlify.app/) for more details about my experience.
+💡 Interested in working together? Feel free to [email me](mailto:muhammadkaifnazeer99@gmail.com) or check out my [CV](https://cv-muhammadkaifnazeer.netlify.app/) for more details about my experience.
