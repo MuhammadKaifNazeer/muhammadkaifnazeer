@@ -5,7 +5,7 @@ I'm a passionate Full-Stack Web Developer specializing in creating exceptional w
 ## 🚀 Some of my Skills
 - JavaScript, TypeScript
 - Next.js, MongoDB, Express.js, React.js, Node.js
-- Tailwind CSS, Shadcn UI
+- Tailwind CSS, Framer Motion
 - NextAuth, Clerk, Kinde Auth
 - Payload CMS
 
