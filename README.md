@@ -6,7 +6,7 @@ I'm a passionate Full-Stack Web Developer specializing in creating exceptional w
 - JavaScript, TypeScript
 - Next.js, MongoDB, Express.js, React.js, Node.js
 - Tailwind CSS, Shadcn UI
-- NextAuth, JWT (JsonWebToken)
+- NextAuth, Clerk, Kinde Auth
 - Payload CMS
 
 ## 🔭 Currently Working On
