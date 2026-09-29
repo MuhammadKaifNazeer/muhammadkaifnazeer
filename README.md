@@ -1,22 +1,24 @@
-# Muhammad Kaif Nazeer
+# Hi, I’m Muhammad Kaif Nazeer 👋
 
 > I’m a web developer and founder building **Voxlet Studio** —
-> a small web studio focused on turning ideas into useful, well-made digital experiences.
+> a small web studio focused on turning ideas into useful, well-made digital experiences. ✦
 
 I started building for the web in 2023. Since then, I’ve gone from learning how things work to building products, experimenting with ideas, and slowly figuring out what kind of work I want to put into the world.
 
-There’s still a lot I don’t know. That’s probably the part I enjoy most.
+<img src="https://raw.githubusercontent.com/allimist/github-readme-kit/main/assets/divider.svg" width="100%" alt="">
+
+There’s still a lot I don’t know. That’s probably the part I enjoy most. 🌱
 <br>
 
 > ## **“If you only do what you can do, you will never be more than who you are.”**
 >
-> — **Master Shifu**, *Kung Fu Panda*
+> — **Master Shifu**, *Kung Fu Panda* 🐼
 
 <br>
 
-That line has stayed with me because it reminds me to keep stepping beyond what I already know — whether I’m learning, building, or trying something completely new.
+That line has stayed with me because it reminds me to keep stepping beyond what I already know — whether I’m learning, building, or trying something completely new. 🚀
 
-### `~/journey`
+### `~/journey` 🧭
 
 🔵 **Now**
 Building **Voxlet Studio**, creating products, and figuring out what comes next.
@@ -33,7 +35,7 @@ Went deeper into web development, products, and interfaces.
 🔵 **2023**
 Started building for the web.
 
-### `~/find-me`
+### `~/find-me` ✦
 
 **Portfolio**
 → [founder.voxletstudio.com](https://founder.voxletstudio.com/)
@@ -45,10 +47,10 @@ Started building for the web.
 → [voxletstudio.com](https://voxletstudio.com/)
 
 **Email**
-→ [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99.com)
+→ [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99@gmail.com)
 
 ---
 
-**Voxlet Studio**
+**Voxlet Studio** ✦
 
 *Building things worth putting on the web.*
