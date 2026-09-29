@@ -1,78 +1,55 @@
-# Muhammad Kaif Nazeer 👋
+# Muhammad Kaif Nazeer
 
-> **I make ideas real on the web.**
+> I’m a web developer and founder building **Voxlet Studio** —
+> a small web studio focused on turning ideas into useful, well-made digital experiences.
 
-I'm a developer from **Lahore, Pakistan**, currently building **[Voxlet Studio](https://voxletstudio.com)**.
+I started building for the web in 2023. Since then, I’ve gone from learning how things work to building products, experimenting with ideas, and slowly figuring out what kind of work I want to put into the world.
 
-I started with code because I wanted to build websites.
+There’s still a lot I don’t know. That’s probably the part I enjoy most.
 
-Then I realized I really like **building things**.
+<br>
 
-So now I'm exploring everything around that — products, interfaces, businesses, content, and the occasional idea that probably should've stayed in my notes app.
+> ## **“If you only do what you can do, you will never be more than who you are.”**
+>
+> — **Master Shifu**, *Kung Fu Panda*
 
----
+<br>
 
-### `~/what-i-do`
+That line has stayed with me because it reminds me to keep stepping beyond what I already know — whether I’m learning, building, or trying something completely new.
 
-```text
-BUILD       websites & digital products
-DESIGN      interfaces I actually enjoy using
-EXPLORE     new ideas & technologies
-SHIP        imperfect things instead of perfect plans
-LEARN       something new → break it → understand it
-```
+### `~/journey`
 
-### `~/currently`
+🔵 **Now**
+Building **Voxlet Studio**, creating products, and figuring out what comes next.
 
-**Voxlet Studio**
-Building a web studio focused on modern websites and digital experiences for businesses.
+🟡 **2026**
+Started turning Voxlet Studio from an idea into a real business.
 
-**Side quests**
-Personal projects · product ideas · experiments · content
+🟢 **2025**
+Started turning ideas into real products.
 
----
+🟣 **2024**
+Went deeper into web development, products, and interfaces.
 
-### `~/stack`
-
-```text
-Frontend    Next.js · React · TypeScript · Tailwind · Framer Motion
-Backend     Node.js · PostgreSQL · MongoDB
-CMS         Payload CMS
-Tools       Git · GitHub · VS Code
-```
-
-I care less about collecting technologies and more about **knowing when to use them.**
-
----
-
-### `~/projects`
-
-Some things I've built, broken, rebuilt, and learned from:
-
-→ **Voxlet Studio** — `voxletstudio.com`
-→ **Voxlet Clinic** — a clinic website & management product
-→ **More experiments →** [my portfolio](https://muhammadkaifnazeer.com)
-
----
+🔵 **2023**
+Started building for the web.
 
 ### `~/find-me`
 
-**Website** → [muhammadkaifnazeer.com](https://muhammadkaifnazeer.com)
-**Studio** → [voxletstudio.com](https://voxletstudio.com)
-**Email** → [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99@gmail.com)
+**Portfolio**
+→ [founder.voxletstudio.com](https://founder.voxletstudio.com/)
+
+**Personal alias**
+→ [muhammad.voxletstudio.com](https://muhammad.voxletstudio.com/)
+
+**Studio**
+→ [voxletstudio.com](https://voxletstudio.com/)
+
+**Email**
+→ [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99.com)
 
 ---
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   CURRENT STATUS                             │
-│                                              │
-│   ████████████████████░░░░░  BUILDING       │
-│                                              │
-│   There is always another idea.              │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+**Voxlet Studio**
 
-**Thanks for stopping by.**
+*Building things worth putting on the web.*
