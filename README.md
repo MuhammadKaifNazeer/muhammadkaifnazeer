@@ -6,7 +6,6 @@
 I started building for the web in 2023. Since then, I’ve gone from learning how things work to building products, experimenting with ideas, and slowly figuring out what kind of work I want to put into the world.
 
 There’s still a lot I don’t know. That’s probably the part I enjoy most.
-
 <br>
 
 > ## **“If you only do what you can do, you will never be more than who you are.”**
