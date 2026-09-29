@@ -1,19 +1,78 @@
-# Hi, I'm Muhammad Kaif Nazeer 👋 
+# Muhammad Kaif Nazeer 👋
 
-I'm a passionate Full-Stack Web Developer specializing in creating exceptional web applications with a focus on modern technologies and seamless user experiences. My expertise spans both front-end and back-end development, allowing me to build comprehensive solutions that are both powerful and user-friendly.
+> **I make ideas real on the web.**
 
-## 🚀 Some of my Skills
-- JavaScript, TypeScript
-- Next.js, MongoDB, Express.js, React.js, Node.js
-- Tailwind CSS, Framer Motion
-- NextAuth, Clerk, Kinde Auth
-- Payload CMS
+I'm a developer from **Lahore, Pakistan**, currently building **[Voxlet Studio](https://voxletstudio.com)**.
 
-## 🔭 Currently Working On
-I'm always exploring new ideas and technologies. Check out my [muhammadkaifnazeer.netlify.app/projects](https://muhammadkaifnazeer.netlify.app/projects) to see what I'm currently building.
+I started with code because I wanted to build websites.
 
-## 📫 Let's Connect
-- Website: [muhammadkaifnazeer.netlify.app](https://muhammadkaifnazeer.netlify.app/)
-- Email: [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99@gmail.com)
+Then I realized I really like **building things**.
 
-💡 Interested in working together? Feel free to [email me](mailto:muhammadkaifnazeer99@gmail.com) or check out my [CV](https://cv-muhammadkaifnazeer.netlify.app/) for more details about my experience.
+So now I'm exploring everything around that — products, interfaces, businesses, content, and the occasional idea that probably should've stayed in my notes app.
+
+---
+
+### `~/what-i-do`
+
+```text
+BUILD       websites & digital products
+DESIGN      interfaces I actually enjoy using
+EXPLORE     new ideas & technologies
+SHIP        imperfect things instead of perfect plans
+LEARN       something new → break it → understand it
+```
+
+### `~/currently`
+
+**Voxlet Studio**
+Building a web studio focused on modern websites and digital experiences for businesses.
+
+**Side quests**
+Personal projects · product ideas · experiments · content
+
+---
+
+### `~/stack`
+
+```text
+Frontend    Next.js · React · TypeScript · Tailwind · Framer Motion
+Backend     Node.js · PostgreSQL · MongoDB
+CMS         Payload CMS
+Tools       Git · GitHub · VS Code
+```
+
+I care less about collecting technologies and more about **knowing when to use them.**
+
+---
+
+### `~/projects`
+
+Some things I've built, broken, rebuilt, and learned from:
+
+→ **Voxlet Studio** — `voxletstudio.com`
+→ **Voxlet Clinic** — a clinic website & management product
+→ **More experiments →** [my portfolio](https://muhammadkaifnazeer.com)
+
+---
+
+### `~/find-me`
+
+**Website** → [muhammadkaifnazeer.com](https://muhammadkaifnazeer.com)
+**Studio** → [voxletstudio.com](https://voxletstudio.com)
+**Email** → [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99@gmail.com)
+
+---
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   CURRENT STATUS                             │
+│                                              │
+│   ████████████████████░░░░░  BUILDING       │
+│                                              │
+│   There is always another idea.              │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+**Thanks for stopping by.**
