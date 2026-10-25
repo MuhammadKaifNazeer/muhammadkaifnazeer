@@ -38,9 +38,6 @@ Started building for the web.
 ### `~/find-me` ✦
 
 **Portfolio**
-→ [founder.voxletstudio.com](https://founder.voxletstudio.com/)
-
-**Personal alias**
 → [muhammad.voxletstudio.com](https://muhammad.voxletstudio.com/)
 
 **Studio**
