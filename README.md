@@ -32,23 +32,23 @@ A selection of products, interfaces, and client work I've built.
 
 ### `~/stack` ⚙️
 
-Languages & Frameworks
-JavaScript · TypeScript · React · Next.js · TanStack Start · Vite · Node.js
+**Languages & Frameworks**  
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `TanStack Start` · `Vite`
 
-UI, Styling & Motion
-Tailwind CSS · HTML5 / CSS3 · GSAP · Motion · Bootstrap · Responsive Design
+**UI, Styling & Motion**  
+`Tailwind CSS` · `HTML5 / CSS3` · `Motion` · `GSAP` · `Responsive Design` · `Bootstrap`
 
-Databases & Data
-PostgreSQL · MongoDB · SQLite · Drizzle ORM · Mongoose · Supabase
+**Databases & Data**  
+`PostgreSQL` · `MongoDB` · `Drizzle ORM` · `Supabase` · `SQLite` · `Mongoose`
 
-Authentication & Identity
-Auth.js · Clerk · Kinde · JWT & Sessions · OAuth 2.0 · RBAC
+**Authentication & Identity**  
+`Auth.js` · `Clerk` · `Kinde` · `JWT & Sessions` · `OAuth 2.0` · `RBAC`
 
-Content & Media
-Payload CMS · MDX · Cloudinary
+**Content & Media**  
+`Payload CMS` · `Cloudinary` · `MDX`
 
-Deployment & Tooling
-Hetzner · Dokploy · Vercel · Git · GitHub
+**Deployment & Tooling**  
+`Git` · `GitHub` · `Vercel` · `Docker` · `Hetzner` · `Dokploy` 
 
 <br>
 
