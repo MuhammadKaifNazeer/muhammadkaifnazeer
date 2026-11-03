@@ -32,14 +32,23 @@ A selection of products, interfaces, and client work I've built.
 
 ### `~/stack` ⚙️
 
-**Frontend**  
-React · Next.js · TypeScript · JavaScript · Tailwind CSS
+Languages & Frameworks
+JavaScript · TypeScript · React · Next.js · TanStack Start · Vite · Node.js
 
-**Backend & Data**  
-Node.js · PostgreSQL · REST APIs
+UI, Styling & Motion
+Tailwind CSS · HTML5 / CSS3 · GSAP · Motion · Bootstrap · Responsive Design
 
-**Tools & Infrastructure**  
-Git · GitHub · Docker · Vercel · Hetzner
+Databases & Data
+PostgreSQL · MongoDB · SQLite · Drizzle ORM · Mongoose · Supabase
+
+Authentication & Identity
+Auth.js · Clerk · Kinde · JWT & Sessions · OAuth 2.0 · RBAC
+
+Content & Media
+Payload CMS · MDX · Cloudinary
+
+Deployment & Tooling
+Hetzner · Dokploy · Vercel · Git · GitHub
 
 <br>
 
@@ -86,7 +95,3 @@ Started building for the web.
 → [muhammadkaifnazeer99@gmail.com](mailto:muhammadkaifnazeer99@gmail.com)
 
 ---
-
-**Voxlet Studio** ✦
-
-*Building things worth putting on the web.*
