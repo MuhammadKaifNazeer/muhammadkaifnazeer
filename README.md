@@ -60,23 +60,6 @@ There’s still a lot I don’t know. That’s probably the part I enjoy most. �
 
 That line has stayed with me because it reminds me to keep stepping beyond what I already know — whether I’m learning, building, or trying something completely new. 🚀
 
-### `~/journey` 🧭
-
-🔵 **Now**  
-Building **Voxlet Studio**, creating products, and looking for my next opportunity.
-
-🟡 **2026**  
-Started turning Voxlet Studio from an idea into a real business.
-
-🟢 **2025**  
-Started turning ideas into real products.
-
-🟣 **2024**  
-Went deeper into web development, products, and interfaces.
-
-🔵 **2023**  
-Started building for the web.
-
 ### `~/find-me` ✦
 
 **Portfolio**  
